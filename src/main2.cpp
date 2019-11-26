@@ -12,3 +12,4 @@ int main() {
 	cout << "Let's find the closest prime number to the number you enter: " << endl;
 	cout << nextPrime(userInput) << endl;
 	return 0;
+}
